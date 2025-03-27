@@ -49,3 +49,97 @@
 - Self-service (Usuário)
 - Serviço monitorado (Servidor)
 - Elasticidade (Servidor)
+
+## Arquitetura
+
+Quais componentes e como se relacionam.
+
+### O que é
+
+- Organização
+- Planejamento
+- Design
+
+### Software
+
+- Padrão de projeto
+- Refatoração
+- Modularidade
+
+### Oque é um componente?
+
+- Interface clara (Como oferecer e consumir serviços)
+
+### Estilo Arquitetônico x Arquitetura de Sistema
+
+- Estilo Arquitetônico (Relacionado ao software)
+- Arquitetura de Sistema (Relacionado ao hardware/Topologia)
+
+### Quanto estilos em SDs
+
+- Arquiteturas em camadas
+- Arquiteturas baseadas em objetos
+- Arquiteturas centradas em dados
+- Arquitetura baseadas em eventos
+- Arquitetura de microsserviços
+
+#### Arquitetura em camadas
+
+- Cada camada fala somente com as camadas próximas
+- Segurança e validação em cada camada
+
+- **Vantagens**
+
+- Separação calara de responsabilidades
+- Fácil de modificar ou substituir camadas individuais
+
+- **Desvantagens**
+
+- Pode ter impacto no desempenho (Vários níveis de chamada)
+- Interação entre camadas não adjacentes é difícil ou proibida
+
+#### Arquiteturas baseadas em objetos
+
+- **Vantagens**
+
+- Alta reutilização de código
+- Facilidade de modelagem (Orientação a objetos)
+
+- **Desvantagens**
+
+- Pode gerar forte acoplamento entre muitos objetos
+- Difícil de escalar em sistemas muito grandes
+
+#### Arquiteturas centradas em dados
+
+Componentes publicam dados enquanto outros componentes buscam dados
+
+- **Vantagens**
+
+- Compartilhamento simples de dados
+- Boa para integrar sistemas heterogêneos
+
+- **Desvantagens**
+
+- Escalabilidade
+- Sobrecarga em consultas, para escrita por exemplo
+
+#### Arquitetura baseadas em eventos
+
+### Arquiteturas de sistemas
+
+#### Arquiteturas centralizadas
+
+Vantagens
+
+- Simplicidade
+- Controle total
+- Boa performance em sistemas pequenos
+
+- Desvantagens
+
+- Gargalos
+
+#### Arquitetura descentralizada
+
+#### Arquitetura hibrida
