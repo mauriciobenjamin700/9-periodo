@@ -2,9 +2,11 @@
 
 Aluno: Mauricio Benjamin da Rocha
 
-O livro *Eu Vou Te Ensinar a Ser Rico* de Ramit Sethi é um guia prático de finanças pessoais voltado para pessoas que desejam melhorar sua relação com o dinheiro, eliminar dívidas e construir riqueza sem precisar cortar pequenos prazeres do dia a dia. O autor apresenta um programa de seis semanas baseado em estratégias simples e automatizadas para otimizar finanças, poupar e investir de forma inteligente.
+O livro *Eu Vou Te Ensinar a Ser Rico* de Ramit Sethi é um guia prático de finanças pessoais voltado para pessoas que desejam melhorar sua relação com o dinheiro, eliminar dívidas e construir riqueza sem precisar cortar pequenos prazeres do dia a dia. O autor apresenta estratégias simples e úteis para otimizar finanças, poupar e investir de forma inteligente.
 
 ## **Principais pontos abordados no livro**
+
+Dado o escopo do livro, organiza-os em tópicos ajuda a visualizar os ensinamentos passados de forma mais simples e direta. Nos tópicos a seguir, estão marcadas as principais palavras chaves e ensinamento identificados no livro.
 
 ### **1. Otimize seus cartões de crédito**
 
@@ -22,8 +24,7 @@ O livro *Eu Vou Te Ensinar a Ser Rico* de Ramit Sethi é um guia prático de fin
 ### **3. Prepare-se para investir**
 
 - Poupar não é suficiente, é essencial investir para multiplicar o dinheiro.
-- Comece investindo em 401(k) e Roth IRA (planos comuns nos EUA), aproveitando ao máximo contribuições correspondentes do empregador.
-- Fundos de índice são uma excelente opção para quem quer bons retornos com baixos custos.
+- Comece investindo em 401(k) e Roth IRA (planos comuns nos EUA), aproveitando ao máximo contribuições correspondentes do empregador. No Brasil seria interessante procurar planos semelhantes e tentar entender "como investir" antes de investir.
 
 ### **4. Gasto consciente**
 
@@ -35,11 +36,13 @@ O livro *Eu Vou Te Ensinar a Ser Rico* de Ramit Sethi é um guia prático de fin
 
 - Automatize suas finanças: configure transferências automáticas para poupança e investimentos.
 - Ao criar um sistema automatizado, você evita esquecimentos e garante que seu dinheiro trabalhe para você.
+- Organize sua agenda e finanças sempre, isso vai lhe poupar tempo, é tempo e dinheiro
 
 ### **6. O mito da especialização financeira**
 
 - Muitos "especialistas" financeiros não conseguem superar o mercado.
 - Estratégias simples, como fundos de índice, costumam ser mais eficazes do que tentar escolher ações individualmente.
+- Em caso de dúvida, siga o caminho mais simples, pois entender o processo é importante.
 
 ### **7. Investir não é apenas para os ricos**
 
@@ -57,8 +60,6 @@ O livro *Eu Vou Te Ensinar a Ser Rico* de Ramit Sethi é um guia prático de fin
 - Ter dinheiro não significa apenas acumular riquezas, mas sim ter liberdade e tranquilidade financeira.
 - Relacionamentos, compras de alto valor (como casa e carro) e outros aspectos da vida devem ser gerenciados de forma inteligente para manter uma vida financeira equilibrada.
 
----
-
 ## **Conclusão**
 
-O livro enfatiza que ser rico não significa privar-se de prazeres, mas sim aprender a gastar de forma inteligente, investir estrategicamente e automatizar suas finanças para garantir um futuro seguro e próspero. Com um plano simples e prático, qualquer pessoa pode assumir o controle de suas finanças e construir riqueza sem precisar se preocupar excessivamente com dinheiro.
+O livro enfatiza que ser rico não significa privar-se de prazeres, mas sim aprender a gastar de forma inteligente, investir estrategicamente e automatizar suas finanças para garantir um futuro seguro e próspero. Com um plano simples e prático, qualquer pessoa pode assumir o controle de suas finanças e construir riqueza sem precisar se preocupar excessivamente com dinheiro. Lembrando sempre de evitar dívidas e pensar bem nos seus objetivos.
