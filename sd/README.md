@@ -1,5 +1,11 @@
 # Sistemas Distribuídos
 
+- Disponibilidade
+- Tempo de resposta < X
+- Confiabilidade
+- Tolerância a falha
+- Escalabilidade
+
 ## Definições
 
 É um **conjunto de computadores independentes** que se apresenta a seus usuários como um sistema **único e coerente**.
@@ -143,3 +149,32 @@ Vantagens
 #### Arquitetura descentralizada
 
 #### Arquitetura hibrida
+
+## Review
+
+- escalabilidade
+  - vertical: recursos computacionais (RAM, CPU)
+  - Horizontal: mais nos
+- distribuição
+  - vertical: Funções diferentes ( sistemas diferentes )
+  - horizontal: Funções iguais ( replicas executando a mesma função)
+
+### P2P
+
+- Centralização
+- Desconexão
+- Interação simétrica
+- Fácil entrada, fácil Saida
+
+#### Arquitetura P2P Estruturada
+
+- guarda chave e valores
+- Usada tabela hash desatribuída para guardar todos os nos
+- cada no conhece apenas o no anterior e o proximo, mas pode ser possível ir para outros nos distantes usando a tabela hash
+
+#### Arquitetura P2P N Estruturada
+
+- Cada no, guarda uma lista de vizinhos, de forma aleatória.
+- Tudo depende do algoritmo
+- Busca por inundação
+
