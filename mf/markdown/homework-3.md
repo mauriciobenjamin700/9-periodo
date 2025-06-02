@@ -42,8 +42,8 @@ Foco em **empresas perenes**, com **dividendos regulares**, **lucros consistente
 | TAEE11  | Energia elétrica | Empresa estável, bons dividendos        | P/L, Dividend Yield |
 | ITSA4   | Financeiro       | Holding do Itaú, forte geração de caixa | ROE, Dividendos     |
 | BBAS3   | Bancário         | Estável, com dividendos acima da média  | P/VP, ROE           |
-| ENBR3   | Energia          | Consistente, boa gestão                 | P/L, endividamento  |
-| FLRY3   | Saúde            | Crescimento moderado e sólido           | Margem líquida, LPA |
+| KLBN11   | Papel e Celulose          | A demanda por embalagens e produtos de celulose tende a ser estável, o que confere perenidade à empresa.                 | P/L, endividamento  |
+| FLRY3   | Saúde            | Crescimento moderado e sólido           | P/L, ROE, Margem Bruta |
 
 ---
 
@@ -76,3 +76,5 @@ Foco em **empresas perenes**, com **dividendos regulares**, **lucros consistente
 ### **Conclusão e Recomendações**
 
 Este portfólio busca **estabilidade e previsibilidade**, com forte geração de **renda passiva mensal** (via FIIs) e crescimento moderado via **ações sólidas**. Ideal para um investidor conservador que deseja preservar seu capital e obter rendimentos acima da inflação com **baixo risco**.
+
+**Ps:** Minha meta é começar de vagar e crescer estável a cada passo. Deixemos as apostas para quando os dividendos estiverem financiando as jogadas de risco.
