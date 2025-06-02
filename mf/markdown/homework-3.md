@@ -6,13 +6,9 @@ Aluno: Mauricio Benjamin da Rocha
 
 O investidor conservador prioriza **segurança e previsibilidade**. Tem baixa tolerância ao risco e prefere **ativos mais estáveis**, mesmo que isso signifique **retornos mais modestos**. Geralmente opta por **FIIs de renda estável**, **ações de empresas consolidadas (blue chips)** e setores menos voláteis (como energia, saneamento, bancos).
 
----
-
 ### **Composição da Carteira (Buy and Hold)**
 
 Carteira com **15 ativos**: combinação de **FIIs de renda (10)** e **ações de empresas sólidas (5)**.
-
----
 
 #### **Fundos Imobiliários (FIIs)** – 10 ativos
 
@@ -31,8 +27,6 @@ Foco em FIIs **de tijolo** (renda estável de imóveis físicos) e **de papel** 
 | CPTS11   | Híbrido (papel e caixa)  | Fundo flexível, com liquidez e boa gestão. A presença de caixa reduz risco de inadimplência e permite adaptação a diferentes cenários.                             | DY, liquidez diária                |                     | DY, liquidez diária                |
 | SNAG11  | FIAGRO (papel)           | Fundo do setor agro com carteira de CRAs bem diversificada. Alta previsibilidade de renda, isenção de IR e exposição a um setor forte da economia brasileira. Ideal para investidor conservador que busca estabilidade e renda mensal. | DY, indexação, risco de crédito |
 
----
-
 #### **Ações (Empresas)** – 5 ativos
 
 Foco em **empresas perenes**, com **dividendos regulares**, **lucros consistentes** e **baixo risco**.
@@ -45,8 +39,6 @@ Foco em **empresas perenes**, com **dividendos regulares**, **lucros consistente
 | KLBN11   | Papel e Celulose          | A demanda por embalagens e produtos de celulose tende a ser estável, o que confere perenidade à empresa.                 | P/L, endividamento  |
 | FLRY3   | Saúde            | Crescimento moderado e sólido           | P/L, ROE, Margem Bruta |
 
----
-
 ### **Metodologia: Buy and Hold com Análise Fundamentalista**
 
 **Buy and Hold** é uma estratégia que visa **comprar bons ativos e mantê-los no longo prazo**, ignorando oscilações de curto prazo. A **análise fundamentalista** será usada para selecionar ativos com **bons fundamentos financeiros**, como:
@@ -58,14 +50,10 @@ Foco em **empresas perenes**, com **dividendos regulares**, **lucros consistente
 * **Crescimento de Receita e Lucro**
 * **Vacância (para FIIs)**
 
----
-
 ### **Distribuição da Carteira (Sugestão de Alocação)**
 
 * **FIIs (Renda fixa/Imobiliária)**: 70% do capital
 * **Ações (Empresas consolidadas)**: 30% do capital
-
----
 
 ### Principais Consultas
 
