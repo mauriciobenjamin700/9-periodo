@@ -29,7 +29,7 @@ Foco em FIIs **de tijolo** (renda estável de imóveis físicos) e **de papel** 
 
 #### **Ações (Empresas)** – 5 ativos
 
-Foco em **empresas perenes**, com **dividendos regulares**, **lucros consistentes** e **baixo risco**.
+Foco em **empresas legais**, com **dividendos regulares**, **lucros consistentes** e **baixo risco**.
 
 | Empresa | Setor            | Justificativa                           | Indicadores         |
 | ------- | ---------------- | --------------------------------------- | ------------------- |
