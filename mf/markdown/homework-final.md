@@ -21,8 +21,8 @@ O mercado dos Estados Unidos, especialmente a bolsa de valores de lá, é o maio
 
 - **[Avenue](https://avenue.us)**: Corretora de investimentos.
   - Taxa de corretagem: Possui um plano "corretagem zero" para 3 operações por mês. Após isso, a taxa de corretagem é de US$ 2,50 por ordem. Também oferece um plano ilimitado por US$ 10,00 por mês.
-  - **Câmbio**: Possui um spread (diferença entre o preço de compra e venda da moeda) que varia de acordo com o volume de câmbio, geralmente a partir de 0,5% a 1%.
-- **Nomad**: Fintech.
+  - **Câmbio**: Possui um spread (diferença entre o preço de compra e venda da moeda) que varia de acordo com o volume de câmbio, geralmente a partir de 0,5% a 1%, mas pode variar até 2%.
+- **[Nomad](https://www.nomadglobal.com)**: Fintech.
   - Taxa de corretagem: Corretagem zero para a compra e venda de ações e ETFs nos EUA.
   - Câmbio: O spread de câmbio varia de 2% a 0,5% dependendo do seu nível no programa de fidelidade Nomad Pass, que considera o volume de câmbio. A taxa de serviço é de 2% (varia de acordo com seu status no Nomad Pass).
 - **Interactive Brokers (IBKR)**: Corretora de investimentos.
@@ -92,3 +92,5 @@ A melhor forma de pagar menos impostos, de forma legal, é através de um bom pl
 - [como-investir-no-exterior/](https://www.suno.com.br/guias/como-investir-no-exterior/)
 - [veja-por-que-cada-vez-mais-brasileiros-estao-escolhendo-investir-no-exterior](https://exame.com/negocios/veja-por-que-cada-vez-mais-brasileiros-estao-escolhendo-investir-no-exterior/)
 - [principais-diferencas-entre-o-mercado-us-e-br](https://avenue.us/blog/principais-diferencas-entre-o-mercado-us-e-br/)
+- [entenda-nova-tributacao-de-investimentos-no-exterior](https://agenciabrasil.ebc.com.br/economia/noticia/2024-03/entenda-nova-tributacao-de-investimentos-no-exterior)
+- [Como funciona a tributação dos investimentos no exterior?](https://lps.suno.com.br/suno/como-funciona-a-tributa%C3%A7%C3%A3o-dos-investimentos-no-exterior)
