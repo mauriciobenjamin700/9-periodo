@@ -17,7 +17,7 @@ O mercado dos Estados Unidos, especialmente a bolsa de valores de lá, é o maio
 
 ## Pensando em fazer investimentos fora do Brasil utilizando corretoras que operam diretamente neste mercado, cite pelo menos 3 (três) exemplos de corretores e suas taxas
 
-É importante se atentar que as taxas e custos podem mudar, então é sempre bom verificar as informações mais recentes diretamente nos sites das corretoras. Dito isso, aqui estão 3 exemplos de corretoras bastante utilizadas por brasileiros para investir no mercado americano:
+É importante se atentar que as taxas e custos podem mudar, então é sempre bom verificar as informações mais recentes diretamente nos sites das corretoras. Dito isso, temos três exemplos de corretoras bastante utilizadas por brasileiros para investir no mercado americano:
 
 - **[Avenue](https://avenue.us)**: Corretora de investimentos.
   - Taxa de corretagem: Possui um plano "corretagem zero" para 3 operações por mês. Após isso, a taxa de corretagem é de US$ 2,50 por ordem. Também oferece um plano ilimitado por US$ 10,00 por mês.
@@ -31,6 +31,8 @@ O mercado dos Estados Unidos, especialmente a bolsa de valores de lá, é o maio
 
 A Avenue e a Nomad são mais voltadas para o público brasileiro e oferecem uma interface mais simples e integrada com o real, enquanto a Interactive Brokers é uma corretora global, com mais opções de mercados, mas pode ser um pouco mais complexa para investidores iniciantes.
 
+Para o meu caso, eu optaria pela **Nomad**.
+
 ## Para os brasileiros, como fica a tributação de investimentos no exterior? Qual a melhor forma de pagar menos impostos?
 
 A tributação de investimentos no exterior para pessoas físicas no Brasil foi alterada pela Lei nº 14.754/2023, que unificou as regras a partir de 2024.
@@ -38,6 +40,8 @@ A tributação de investimentos no exterior para pessoas físicas no Brasil foi 
 - **Alíquota única**: A principal mudança é a aplicação de uma alíquota única de 15% sobre os rendimentos de aplicações financeiras no exterior, incluindo dividendos e ganhos de capital.
 - **Declaração Anual**: O Imposto de Renda é apurado e pago uma vez por ano, na Declaração de Ajuste Anual (DAA). Antes, a apuração era feita mensalmente.
 - **Variação cambial**: A variação cambial de depósitos em contas-correntes (não remuneradas) e cartões de débito/crédito no exterior é isenta de imposto.
+
+Vale salientar que novas taxas podem ser adicionadas, então devemos ter cuidado antes de cada decisão.
 
 A melhor forma de pagar menos impostos, de forma legal, é através de um bom planejamento tributário. Infelizmente, não existe uma fórmula mágica para zerar o imposto, mas algumas estratégias podem otimizar o resultado:
 
@@ -48,43 +52,51 @@ A melhor forma de pagar menos impostos, de forma legal, é através de um bom pl
 
 ## Diante das pesquisas que você fez, elabore uma carteira de investimentos com no mínimo 15 ativos da bolsa americana. Explique cada ativo
 
-- Ações de Crescimento e Tecnologia:
+### Ações de Crescimento e Tecnologia
 
-  - Apple (AAPL): Gigante da tecnologia, líder em smartphones, computadores e serviços. É uma empresa madura, mas com forte fluxo de caixa e recompra de ações, além de desenvolver novos produtos.
+Empresas com alto potencial de valorização no longo prazo, geralmente reinvestem lucros para crescer.
 
-  - Nvidia (NVDA): Líder global em chips de inteligência artificial (IA) e placas de vídeo. Um dos principais destaques do mercado de tecnologia devido ao boom da IA.
+- **[Nvidia (NVDA)](https://investidor10.com.br/stocks/nvda/)**: Líder global em chips de IA e placas de vídeo. Destaque com o avanço da inteligência artificial.
 
-  - Microsoft (MSFT): Uma das maiores empresas do mundo, com foco em software, serviços de nuvem (Azure) e hardware. É uma gigante com um modelo de negócio muito resiliente.
+- **[Microsoft (MSFT)](https://investidor10.com.br/stocks/msft/)**: Gigante do setor de software e computação em nuvem (Azure). Forte presença corporativa.
 
-  - Amazon (AMZN): Líder em e-commerce e computação em nuvem (AWS). Continua a expandir seus negócios e é uma potência em logística e tecnologia.
+- **[Amazon (AMZN)](https://investidor10.com.br/etfs-global/amzp/)**: Potência global em e-commerce e serviços de nuvem (AWS).
 
-  - Meta Platforms (META): Dono do Facebook, Instagram, WhatsApp e Threads. Oportunidade no crescimento da publicidade digital e no desenvolvimento do metaverso e da IA.
+- **[Meta Platforms (META)](https://investidor10.com.br/stocks/meta/)**: Controla Facebook, Instagram e WhatsApp. Foco em IA, metaverso e publicidade digital.
 
-  - Alphabet (GOOGL): A holding do Google, com destaque para a busca online, publicidade e o sistema Android. Outra empresa com um modelo de negócio muito forte e diversificado.
+- **[Xiaomi Corp (1810)](https://br.investing.com/equities/xiaomi)**: Empresa chinesa de tecnologia que fabrica smartphones e dispositivos inteligentes. Forte crescimento internacional e inovação em custo-benefício.
 
-- Ações de Valor e Defensivas (Empresas mais estáveis):
+### Ações de Valor e Defensivas
 
-  - Johnson & Johnson (JNJ): Gigante do setor de saúde, com produtos farmacêuticos, dispositivos médicos e produtos de consumo. É uma ação defensiva, que paga bons dividendos e tende a ser menos volátil em crises.
+Empresas mais estáveis, com fluxo de caixa previsível e boas pagadoras de dividendos.
 
-  - Procter & Gamble (PG): Empresa de bens de consumo, dona de marcas como Gillette, Pampers e Ariel. Considerada uma ação defensiva por vender produtos essenciais, independentemente do cenário econômico.
+- **[Johnson & Johnson (JNJ)](https://investidor10.com.br/stocks/jnj/)**: Gigante da saúde com diversificação em fármacos, consumo e dispositivos médicos.
 
-  - Coca-Cola (KO): Uma das marcas mais valiosas do mundo, com um portfólio de bebidas gigante e presença global. Famosa por ser uma "ação de dividendos", com pagamentos consistentes e crescentes.
+- **[Procter & Gamble (PG)](https://investidor10.com.br/stocks/pg/)**: Bens de consumo essenciais com marcas fortes. Estabilidade em qualquer cenário.
 
-  - JPMorgan Chase (JPM): Um dos maiores bancos dos EUA. Representa o setor financeiro, que se beneficia do crescimento econômico e da elevação das taxas de juros.
+- **[Coca-Cola (KO)](https://investidor10.com.br/stocks/ko/)**: Marca global de bebidas, conhecida por seus dividendos constantes.
 
-- ETFs (fundos de índices, para diversificação instantânea):
+- **[JPMorgan Chase & Co. (JPM)](https://investidor10.com.br/stocks/jpm/)**: Maior banco dos EUA. Forte atuação em serviços financeiros, considerada referência no setor bancário.
 
-  - Vanguard S&P 500 ETF (VOO): Um ETF que replica o desempenho do índice S&P 500, investindo nas 500 maiores empresas americanas. Uma das melhores formas de investir na economia americana como um todo.
+- **[Exxon Mobil Corporation (XOM)](https://investidor10.com.br/stocks/xom/)**: Uma das maiores petroleiras do mundo, conhecida por dividendos e resiliência em ciclos econômicos.
 
-  - Invesco QQQ Trust (QQQ): Replica o índice Nasdaq-100, que é focado nas 100 maiores empresas de tecnologia. É um ETF para quem busca exposição ao setor de tecnologia.
+- **[Union Pacific (UNP)](https://investidor10.com.br/stocks/unp/)**: Operadora ferroviária americana. Atua no setor de transporte de cargas, essencial para a economia real.
 
-  - Vanguard Total Stock Market ETF (VTI): Um ETF que investe em praticamente todas as ações do mercado de ações dos EUA, de grandes a pequenas empresas. Oferece a maior diversificação possível.
+### ETFs (Fundos de Índices)
 
-- REITs (ativos imobiliários que pagam dividendos):
+Oferecem diversificação automática e menor risco específico.
 
-  - Prologis (PLD): Um dos maiores REITs do mundo, especializado em galpões e logística. Com o crescimento do e-commerce, a demanda por esses espaços tem sido crescente.
+- **[Vanguard S\&P 500 ETF (VOO)](https://investidor10.com.br/etfs-global/voo/)**: Replica as 500 maiores empresas dos EUA. Excelente para exposição à economia americana.
 
-  - American Tower (AMT): Um REIT que possui e opera torres de comunicação. Se beneficia do crescimento da conectividade e da tecnologia 5G, pagando bons dividendos.
+- **[Invesco QQQ Trust (QQQ)](https://investidor10.com.br/etfs-global/qqq/)**: Baseado no Nasdaq-100, com foco em empresas de tecnologia e inovação.
+
+- **[Vanguard Total Stock Market ETF (VTI)](https://investidor10.com.br/etfs-global/vti/)**: Cobre praticamente todas as ações listadas nos EUA, de grandes a pequenas empresas.
+
+### REITs (Imobiliários)
+
+Pagam dividendos regulares, ideais para renda passiva e exposição ao setor de infraestrutura e imóveis.
+
+- **[ETRACS Alerian Midstream Energy Total Return Index ETN (AMTR)](https://investidor10.com.br/etfs-global/amtr/)**: Exposição a empresas de infraestrutura de energia (oleodutos e gás natural). Foco em geração de fluxo de caixa estável.
 
 ## Referências
 
@@ -94,3 +106,4 @@ A melhor forma de pagar menos impostos, de forma legal, é através de um bom pl
 - [principais-diferencas-entre-o-mercado-us-e-br](https://avenue.us/blog/principais-diferencas-entre-o-mercado-us-e-br/)
 - [entenda-nova-tributacao-de-investimentos-no-exterior](https://agenciabrasil.ebc.com.br/economia/noticia/2024-03/entenda-nova-tributacao-de-investimentos-no-exterior)
 - [Como funciona a tributação dos investimentos no exterior?](https://lps.suno.com.br/suno/como-funciona-a-tributa%C3%A7%C3%A3o-dos-investimentos-no-exterior)
+- [PASSO A PASSO para INVESTIR no EXTERIOR](https://www.youtube.com/watch?v=We0ymUKFaqE&t=913s)
